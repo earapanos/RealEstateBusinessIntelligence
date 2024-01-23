@@ -1,10 +1,8 @@
 # RealStateBusinessIntelligence
 
-Dashboard Real State Business Intelligence - Florianópolis Downtown
+<h1 align="center"> 🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard</h1>
 
-<h2>Objetivo do Estudo</h2>
-
-This dashboard is a continuation of my Data Analysis and Science project. I developed this work independently and was responsible for creating the screens, selecting the KPIs, and establishing metrics for analyzing the square meter value in the central region of Florianópolis.
+This dashboard is a continuation of my <a href="https://github.com/earapanos/RealStateDataAnalysis">Data Analytics and Science project.</a> I developed this work independently and was responsible for creating the screens, selecting the KPIs, and establishing metrics for analyzing the square meter value in the central region of Florianópolis.
 
 The dashboard was designed to be an interactive tool that enables real estate developers to understand the spatial distribution of the square meter value in downtown Florianópolis. It can also serve as a query tool for individuals looking to acquire property, providing access to information that facilitates the selection of a residential location.
 
