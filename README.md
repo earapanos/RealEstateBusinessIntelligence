@@ -1,4 +1,3 @@
-# RealStateBusinessIntelligence
 
 <h1 align="center"> 🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard</h1>
 
