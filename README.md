@@ -8,7 +8,7 @@ This dashboard is a continuation of my Data Analysis and Science project. I deve
 
 The dashboard was designed to be an interactive tool that enables real estate developers to understand the spatial distribution of the square meter value in downtown Florianópolis. It can also serve as a query tool for individuals looking to acquire property, providing access to information that facilitates the selection of a residential location.
 
-<h4 align="left"><a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57">Click here to acess the Dashboard of the Downtown Real State Business Intelligence</a></h4>
+* <h4 align="left"><a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57">🔗 Dashboard - The Downtown Real State Business Intelligence</a></h4>
 
 <h3>Data source</h3>
 
